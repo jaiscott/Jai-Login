@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86970148427",
+    "firebase_url": "https://zoho-login.firebaseio.com",
+    "project_id": "zoho-login",
+    "storage_bucket": "zoho-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86970148427:android:314bfa0fa2a618b0",
+        "android_client_info": {
+          "package_name": "com.zohologin.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86970148427-rklu6qmg3ns9niaqnoludbmhn96td65p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zohologin.demo",
+            "certificate_hash": "A8BFE632FF796FD730C1F3C5E3F93EC5CDD36DA1"
+          }
+        },
+        {
+          "client_id": "86970148427-bm72g8luasvnus3kha4du4e3nmtrp8v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfPF13Y2uq4Djtxcpk79NULT7041sCAeA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86970148427-bm72g8luasvnus3kha4du4e3nmtrp8v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

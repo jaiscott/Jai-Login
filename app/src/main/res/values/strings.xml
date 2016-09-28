@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ZohoLogin</string>
+    <string name="empty_field">Input Field is empty</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="log_in">LOG IN</string>
+    <string name="invalid_email">Invalid Email Address</string>
+    <string name="password_restrication"><![CDATA[Password min length of 6 upto 20 characters & atleast 1 specical character, 1 Upper Case, 1 Lower case & 1 Digit.]]></string>
+    <string name="invalid_phone">Invalid Phone Number</string>
+    <string name="reg_succ">Registration Success</string>
+    <string name="reg_fail">Registration Failed</string>
+    <string name="invalid_user">Email Id Not Registered </string>
+    <string name="alreadyUser">Email Id already Registered</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="invalid_pass">Invalid Password, please enter correct password.</string>
+    <string name="welcome">Welcome</string>
+</resources>
